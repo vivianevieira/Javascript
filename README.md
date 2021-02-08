@@ -9,3 +9,4 @@ A 3x3 grid of tiles (9 in total) had to be generated with the human in the cente
 
 
 ### Screen capture of the app
+![Screen capture](/images/screen-capture.gif)
